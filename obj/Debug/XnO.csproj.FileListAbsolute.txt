@@ -1,0 +1,10 @@
+S:\Official work files\Visual Studio repos\XnO\XnO\bin\Debug\XnO.exe.config
+S:\Official work files\Visual Studio repos\XnO\XnO\bin\Debug\XnO.exe
+S:\Official work files\Visual Studio repos\XnO\XnO\bin\Debug\XnO.pdb
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.csprojAssemblyReference.cache
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.Properties.Resources.resources
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.csproj.GenerateResource.cache
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.csproj.CoreCompileInputs.cache
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.exe
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.pdb
+S:\Official work files\Visual Studio repos\XnO\XnO\obj\Debug\XnO.Form1.resources
